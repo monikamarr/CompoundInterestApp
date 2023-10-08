@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CompoundInterest</string>
+    <string name="your_final_amount_is">Your final amount is:</string>
+    <string name="compound_interest_calculator">Compound Interest Calculator!</string>
+    <string name="CompoundInterestCalculator">Compound Interest Calculator</string>
+    <string name="calculate">Calculate</string>
+    <string name="times_compounded">Times Compounded</string>
+    <string name="how_many_years">How Many Years</string>
+    <string name="original_amount">Initial Amount</string>
+    <string name="coin">coin</string>
+    <string name="interest_rate">Interest Rate (Decimal)</string>
+    <string name="choose_interest_rate">Choose Interest Rate</string>
+    <string name="_0">0</string>
+    <string name="select_compounding_frequency">Select Frequency:</string>
+    <string name="times_compounded_prompt">Select a Compounding Frequency</string>
+    <string name="compound_frequency">Choose Compound Frequency:</string>
+    <string name="length_of_time_in_years">Length of Time in Years:</string>
+
+
+</resources>

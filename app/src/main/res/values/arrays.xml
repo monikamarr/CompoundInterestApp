@@ -1,0 +1,15 @@
+<resources>
+    <string-array name="times_compounded_array">
+        <item>Annually</item>
+        <item>Semi-Annually</item>
+        <item>Quarterly</item>
+        <item>Monthly</item>
+    </string-array>
+
+    <integer-array name="times_compounded_values">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>12</item>
+    </integer-array>
+</resources>
