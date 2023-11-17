@@ -1,36 +1,17 @@
-<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
-
-# AND101 Project 4 - CodeMath
-
-Submitted by: **Monika Marek**
-
-Time spent: **7** hours spent in total
-
-## Summary
+# CodeMath
 
 **CompundInterest** is an android app that **calculates compound interest based on user input**
 
-If I had to describe this project in three (3) emojis, they would be: **🫣🤗🫡**
-
 ## Application Features
 
-<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
-The following REQUIRED features are completed:
+App features:
 
-- [x] At least one (1) user input
-- [x] At least one (1) interactive View
-- [x] At least one (1) output of a calculation based on the user input
+- Multiple user inputs and multiple ways of input: EditText, SeekBar, Spinner
+- SeekBar shows words (Anually, Quarterly, etc...) and in the background, the program translates it to numbers (1,4,etc..)
+- Interactive view
+- An output of a calculation based on the user input
 
-The following STRETCH features are implemented:
-
-- [x] Add at least one (1) additional functionality
-
-The following EXTRA features are implemented:
-
-- [x] Multiple user inputs and multiple ways of input: EditText, SeekBar, Spinner
-- [x] SeekBar shows words (Anually, Quarterly, etc...) and in the background, the program translates it to numbers (1,4,etc..)
-- [x] Similarly with the Spinner
 
 ## Video Demo
 
@@ -40,14 +21,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 GIF created with **Kap**
 
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-This was a pretty time-consuming and challenging project. I feel 100% fullfilled after finishing it!
 
 ## License
 
