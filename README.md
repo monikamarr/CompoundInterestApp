@@ -1,5 +1,3 @@
-# CodeMath
-
 **CompundInterest** is an android app that **calculates compound interest based on user input**
 
 ## Application Features
